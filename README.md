@@ -125,7 +125,7 @@ The app uses **PostgreSQL** with **Prisma ORM**. There are two models with a one
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/0xitsHimanshu/digitallynext-assignment
 cd digitally-next-assessment
 ```
 
@@ -209,7 +209,3 @@ This opens a GUI at **http://localhost:5555** to browse and edit your data.
 > Example: `https://task-board.vercel.app`
 
 ---
-
-## License
-
-This project was built as part of the **Digitally Next** assessment.
