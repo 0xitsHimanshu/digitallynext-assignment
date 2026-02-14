@@ -204,7 +204,7 @@ This opens a GUI at **http://localhost:5555** to browse and edit your data.
 
 ## Live URL
 
-> _Not yet deployed. Add the live URL here once deployed._
+> **https://digitallynext-assignment.vercel.app/**
 >
 > Example: `https://task-board.vercel.app`
 
